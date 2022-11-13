@@ -42,10 +42,10 @@ My name is Jessica Hogan and I'm an analyst and data scientist. I'm from Sonoma 
 - 🌱 I’m currently learning Marketo and Tableau
 - 👯 I’m looking to collaborate on any type of data projects 
 - 🤔 I’m looking for help with hiring within the data science field
-- 💬 Ask me about data
+- 💬 Ask me about analytics https://img.shields.io/badge/Codecov-F01F7A?style=for-the-badge&logo=Codecov&logoColor=white
 - 📫 How to reach me: email
 - ⚡ Fun fact: I've been skydiving twice and to Africa twice
-
+- https://img.shields.io/badge/apache%20Groovy-4298B8?style=for-the-badge&logo=apachegroovy&logoColor=white
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jessicahoganma&theme=onedark&show_icons=true)
 
