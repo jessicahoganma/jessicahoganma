@@ -6,7 +6,7 @@ My name is Jessica Hogan and I'm an analyst and data scientist. I'm from Sonoma 
 - 🌱 I’m currently learning Marketo and Tableau
 - 👯 I’m looking to collaborate on any type of data projects 
 - 🤔 I’m looking for help with hiring within the data science field
-- 💬 Ask me about ...
+- 💬 Ask me about data
 - 📫 How to reach me: email
 - ⚡ Fun fact: I've been skydiving twice and to Africa twice
 
