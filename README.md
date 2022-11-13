@@ -1,4 +1,7 @@
 ### Hi there, I'm Jessica 👋
+My name is Jessica Hogan and I'm an analyst and data scientist. I'm from Sonoma County, California. You can find me on
+
+[![jessicahoganma's GitHub stats](https://github-readme-stats.vercel.app/api?username=jessicahoganma)](https://github.com/jessicahoganma/github-readme-stats)
 
 <!--
 **jessicahoganma/jessicahoganma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
