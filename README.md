@@ -1,7 +1,6 @@
 ### Hi there, I'm Jessica 👋
 My name is Jessica Hogan and I'm an analyst and data scientist. I'm from Sonoma County, California. You can find me on
 
-[![jessicahoganma's GitHub stats](https://github-readme-stats.vercel.app/api?username=jessicahoganma)](https://github.com/jessicahoganma/github-readme-stats)
 
 - 🔭 I’m currently working on my website and github repository
 - 🌱 I’m currently learning Marketo and Tableau
@@ -12,17 +11,4 @@ My name is Jessica Hogan and I'm an analyst and data scientist. I'm from Sonoma 
 - ⚡ Fun fact: I've been skydiving twice and to Africa twice
 
 
-<!--
-**jessicahoganma/jessicahoganma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![jessicahoganma's GitHub stats](https://github-readme-stats.vercel.app/api?username=jessicahoganma)](https://github.com/jessicahoganma/github-readme-stats)
