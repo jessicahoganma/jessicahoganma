@@ -43,7 +43,7 @@ My name is Jessica Hogan and I'm an analyst and data scientist. I'm from Sonoma 
 - 🔭 I’m currently working on my website and github repository
 - 🌱 I’m currently learning Marketo and Tableau
 - 👯 I’m looking to collaborate on any type of data projects 
-- 💬 Ask me about analytics https://img.shields.io/badge/Codecov-F01F7A?style=for-the-badge&logo=Codecov&logoColor=white and what I'm watching :eyes:
+- 💬 Ask me about analytics  and what I'm watching :eyes:
 - 📫 How to reach me: email
 - ⚡ Fun fact: I've been skydiving twice and to Africa twice
 - https://img.shields.io/badge/apache%20Groovy-4298B8?style=for-the-badge&logo=apachegroovy&logoColor=white
