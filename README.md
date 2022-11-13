@@ -46,9 +46,8 @@ My name is Jessica Hogan and I'm an analyst and data scientist. I'm from Sonoma 
 - 💬 Ask me about analytics  and what I'm watching :eyes:
 - 📫 How to reach me: email
 - ⚡ Fun fact: I've been skydiving twice and to Africa twice
-- https://img.shields.io/badge/apache%20Groovy-4298B8?style=for-the-badge&logo=apachegroovy&logoColor=white
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jessicahoganma&theme=onedark&show_icons=true)
+![JessicaHogan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jessicahoganma&theme=onedark&show_icons=true)
 
 
 ### Technologies & Tools
