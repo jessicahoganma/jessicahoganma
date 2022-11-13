@@ -28,12 +28,12 @@ My name is Jessica Hogan and I'm an analyst and data scientist. I'm from Sonoma 
 <!-- links to your social media accounts -->
 <!-- update these accordingly -->
 
-[1]: http://www.twitter.com/carlsednaoui
-[2]: http://www.facebook.com/sednaoui
-[3]: https://plus.google.com/+CarlSednaoui
-[4]: http://carlsed.tumblr.com
-[5]: http://dribbble.com/carlsednaoui
-[6]: http://www.github.com/carlsednaoui
+[1]: http://www.twitter.com/jessicahoganma
+[2]: http://www.facebook.com/jessicahoganma
+[3]: https://plus.google.com/+jessicahoganma
+[4]: http://jessicahoganma.tumblr.com
+[5]: http://dribbble.com/jessicahoganma
+[6]: http://www.github.com/jessicahoganma
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
