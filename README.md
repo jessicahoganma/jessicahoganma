@@ -12,3 +12,7 @@ My name is Jessica Hogan and I'm an analyst and data scientist. I'm from Sonoma 
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jessicahoganma&theme=onedark&show_icons=true)
+
+
+### Technologies & Tools
+![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
