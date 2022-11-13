@@ -55,4 +55,4 @@ My name is Jessica Hogan and I'm an analyst and data scientist. I'm from Sonoma 
 ### Technologies & Tools
 ![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
