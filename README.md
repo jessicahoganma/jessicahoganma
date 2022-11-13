@@ -1,7 +1,7 @@
 [![MasterHead](your image link)](your GitHub link)
 
 ### Hi there, I'm Jessica 👋
-My name is Jessica Hogan and I'm an analyst and data scientist. I'm from Sonoma County:grapes:, California. You can find me on <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
+My name is Jessica Hogan and I'm an analyst and data scientist. I'm from Sonoma County :grapes:, California. You can find me on <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
 <!-- display the social media buttons in your README -->
 
@@ -43,8 +43,7 @@ My name is Jessica Hogan and I'm an analyst and data scientist. I'm from Sonoma 
 - 🔭 I’m currently working on my website and github repository
 - 🌱 I’m currently learning Marketo and Tableau
 - 👯 I’m looking to collaborate on any type of data projects 
-- 🤔 I’m looking for help with hiring within the data science field
-- 💬 Ask me about analytics https://img.shields.io/badge/Codecov-F01F7A?style=for-the-badge&logo=Codecov&logoColor=white
+- 💬 Ask me about analytics https://img.shields.io/badge/Codecov-F01F7A?style=for-the-badge&logo=Codecov&logoColor=white and what I'm watching :eyes:
 - 📫 How to reach me: email
 - ⚡ Fun fact: I've been skydiving twice and to Africa twice
 - https://img.shields.io/badge/apache%20Groovy-4298B8?style=for-the-badge&logo=apachegroovy&logoColor=white
