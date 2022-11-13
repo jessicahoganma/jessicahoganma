@@ -12,3 +12,5 @@ My name is Jessica Hogan and I'm an analyst and data scientist. I'm from Sonoma 
 
 
 [![jessicahoganma's GitHub stats](https://github-readme-stats.vercel.app/api?username=jessicahoganma)](https://github.com/jessicahoganma/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jessicahoganma&theme=dark&show_icons=true)
