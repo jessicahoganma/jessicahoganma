@@ -16,6 +16,7 @@ My name is Jessica Hogan and I'm an analyst and data scientist. I'm from Sonoma 
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
 [2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
 [3.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+[4.1]: https://cdn-icons-png.flaticon.com/512/1006/1006771.png (www icon with padding)
 
 <!-- icons without padding -->
 
@@ -25,6 +26,7 @@ My name is Jessica Hogan and I'm an analyst and data scientist. I'm from Sonoma 
 [1]: http://www.twitter.com/jessicahoganma
 [2]: http://www.facebook.com/jessicahoganma
 [3]: http://www.github.com/jessicahoganma
+[4]: https://www.jessicahoganma.com/
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
