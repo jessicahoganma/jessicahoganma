@@ -3,7 +3,7 @@
 ## Hi there, I'm Jessica 👋 
 My name is Jessica Hogan and I'm an analyst and data scientist. I'm from Sonoma County :grapes:, California. 
 
-<p align="left">
+<div align="left" display="flex">
   <img src="https://rshogan.imgix.net/personal/logos/jh_logo_white.png" width="350" alt="accessibility text">
 </p>
 [Checkout my Website](https://www.jessicahoganma.com/)
