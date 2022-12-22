@@ -30,8 +30,8 @@ My name is Jessica Hogan and I'm an analyst and data scientist. I'm from Sonoma 
 
 [1]: http://www.twitter.com/jessicahoganma
 [2]: http://www.facebook.com/jessicahoganma
-[4]: http://jessicahoganma.tumblr.com
-[6]: http://www.github.com/jessicahoganma
+[3]: http://jessicahoganma.tumblr.com
+[4]: http://www.github.com/jessicahoganma
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
