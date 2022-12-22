@@ -1,4 +1,4 @@
-### Hi there, I'm Jessica 👋
+## Hi there, I'm Jessica 👋
 My name is Jessica Hogan and I'm an analyst and data scientist. I'm from Sonoma County :grapes:, California. You can find me on <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
 <!-- display the social media buttons in your README -->
