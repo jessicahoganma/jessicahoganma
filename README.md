@@ -1,5 +1,3 @@
-[![MasterHead](your image link)](your GitHub link)
-
 ### Hi there, I'm Jessica 👋
 My name is Jessica Hogan and I'm an analyst and data scientist. I'm from Sonoma County :grapes:, California. You can find me on <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
