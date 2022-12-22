@@ -1,5 +1,4 @@
-<p align="center">
-  <img src="https://rshogan.imgix.net/personal/logos/jh_logo_white.png" width="350" title="hover text">
+<p align="left">
   <img src="https://rshogan.imgix.net/personal/logos/jh_logo_white.png" width="350" alt="accessibility text">
 </p>
 
