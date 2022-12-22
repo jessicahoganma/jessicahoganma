@@ -6,6 +6,7 @@ My name is Jessica Hogan and I'm an analyst and data scientist. I'm from Sonoma 
 [![alt text][1.1]][1]
 [![alt text][2.1]][2]
 [![alt text][3.1]][3]
+[![alt text][4.1]][4]
 
 
 <!-- links to social media icons -->
