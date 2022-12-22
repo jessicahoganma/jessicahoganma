@@ -1,4 +1,7 @@
-![Jessica Hogan](https://rshogan.imgix.net/personal/logos/jh_logo_white.png)
+<p align="center">
+  <img src="https://rshogan.imgix.net/personal/logos/jh_logo_white.png" width="350" title="hover text">
+  <img src="https://rshogan.imgix.net/personal/logos/jh_logo_white.png" width="350" alt="accessibility text">
+</p>
 
 ## Hi there, I'm Jessica 👋 
 My name is Jessica Hogan and I'm an analyst and data scientist. I'm from Sonoma County :grapes:, California. 
