@@ -1,4 +1,6 @@
-## Hi there, I'm Jessica 👋
+![Jessica Hogan](https://rshogan.imgix.net/personal/logos/jh_logo_white.png)
+
+## Hi there, I'm Jessica 👋 
 My name is Jessica Hogan and I'm an analyst and data scientist. I'm from Sonoma County :grapes:, California. 
 
 [Checkout my Website](https://www.jessicahoganma.com/)
