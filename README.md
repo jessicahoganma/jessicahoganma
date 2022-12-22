@@ -6,7 +6,6 @@ My name is Jessica Hogan and I'm an analyst and data scientist. I'm from Sonoma 
 [![alt text][1.1]][1]
 [![alt text][2.1]][2]
 [![alt text][3.1]][3]
-[![alt text][4.1]][4]
 
 
 <!-- links to social media icons -->
@@ -25,8 +24,7 @@ My name is Jessica Hogan and I'm an analyst and data scientist. I'm from Sonoma 
 
 [1]: http://www.twitter.com/jessicahoganma
 [2]: http://www.facebook.com/jessicahoganma
-[3]: http://jessicahoganma.tumblr.com
-[4]: http://www.github.com/jessicahoganma
+[3]: http://www.github.com/jessicahoganma
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
