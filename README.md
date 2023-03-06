@@ -46,7 +46,7 @@ You can find me on <!-- Please don't remove this: Grab your social icons from ht
 - 👯 I’m looking to collaborate on machine learning projects 
 - 💬 Ask me about Excel, SQL and what I'm watching :eyes:
 - 📫 How to reach me: email
-- ⚡ Fun fact: I've been skydiving twice and to Africa twice
+- ⚡ Fun fact: I've been skydiving 2x and to Africa 2x
 
 ![JessicaHogan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jessicahoganma&theme=onedark&show_icons=true)
 
