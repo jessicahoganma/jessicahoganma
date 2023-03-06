@@ -42,7 +42,7 @@ You can find me on <!-- Please don't remove this: Grab your social icons from ht
 
 - 🔭 I’m currently working on my website and github repository
 - 🌱 I’m currently learning Marketo and Tableau
-- 📖 I'm reading "The Hundred-Page Machine Learning Book 
+- 📖 I'm reading "The Hundred-Page Machine Learning Book" by Andriy Burkov
 - 👯 I’m looking to collaborate on machine learning projects 
 - 💬 Ask me about Excel, SQL and what I'm watching :eyes:
 - 📫 How to reach me: email
